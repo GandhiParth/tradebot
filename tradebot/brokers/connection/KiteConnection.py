@@ -5,6 +5,7 @@ from kiteconnect import KiteConnect
 
 from datetime import datetime
 import time
+import os
 
 from pyotp import TOTP
 from selenium import webdriver  # v 4.18.1
@@ -66,14 +67,19 @@ class KiteConnection(BrokerConnection):
         return access_token
 
     def auto_login(self):
-        request_token = self.generate_request_token()
-        access_token = self.generate_access_token(request_token=request_token)
+        self.save_token()
         kite = KiteConnect(
-            api_key=self.credentials.api_key.value, access_token=access_token
+            api_key=os.getenv("kite_api_key"),
+            access_token=os.getenv("kite_access_token"),
         )
         logger.info("Succesfully Connected to Kite !!")
         return kite
 
-    @staticmethod
-    def save_token():
-        raise NotImplementedError
+    def save_token(self) -> None:
+        """
+        Save the tokens to OS variables
+        """
+        os.environ["kite_api_key"] = self.credentials.api_key.value
+        os.environ["kite_access_token"] = self.generate_access_token(
+            request_token=self.generate_request_token()
+        )
