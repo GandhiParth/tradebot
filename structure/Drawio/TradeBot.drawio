@@ -1,0 +1,199 @@
+<mxfile host="app.diagrams.net" modified="2024-07-06T20:12:53.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KO-yDFg4D-i2d8zwCqSC" version="24.6.4" type="device">
+  <diagram name="Page-1" id="TEG_agjm5ynFzgL5PLEA">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-1" target="ONhmXVHd8KsQxBOS23hd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-1" value="Brokergae&lt;br&gt;Feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-2" value="Gets the tick data &lt;br&gt;for stocks required" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-3" target="ONhmXVHd8KsQxBOS23hd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-3" target="ONhmXVHd8KsQxBOS23hd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-3" value="Databa&lt;span style=&quot;background-color: initial;&quot;&gt;se&lt;/span&gt;&lt;div&gt;Storage&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-5" value="Tick Data Gets Stored&lt;div&gt;&amp;nbsp;to Timescale DB&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-12" target="ONhmXVHd8KsQxBOS23hd-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-12" target="ONhmXVHd8KsQxBOS23hd-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-12" target="ONhmXVHd8KsQxBOS23hd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;entryX=0.797;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-12" target="ONhmXVHd8KsQxBOS23hd-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="280" />
+              <mxPoint x="740" y="281" />
+              <mxPoint x="936" y="281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-12" value="Data&lt;br&gt;Event" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-14" value="Signal for New Data Received&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-15" target="ONhmXVHd8KsQxBOS23hd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-15" target="ONhmXVHd8KsQxBOS23hd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-15" target="ONhmXVHd8KsQxBOS23hd-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-15" value="Data Handler" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-17" value="Based on Data Event Fetches Required Data from Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-22" target="ONhmXVHd8KsQxBOS23hd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-22" value="Stratergy" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-26" target="ONhmXVHd8KsQxBOS23hd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-26" value="Signal&lt;br&gt;Buy/Sell" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-28" value="Based on Latest Data&lt;br&gt;Generate a Buy/Sell Signal&lt;br&gt;for different stratergies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="480" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-29" value="Buy/Sell&amp;nbsp;&lt;br&gt;Signal Generated" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="623" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-30" target="ONhmXVHd8KsQxBOS23hd-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-30" target="ONhmXVHd8KsQxBOS23hd-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-30" value="Portfolio" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="450" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-32" value="Based On Data Recived&lt;div&gt;&amp;nbsp;Update Portfolio Values&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="770" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-37" value="Based on Signal&lt;br&gt;would generate&lt;br&gt;Buy/Sell Orders&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="800" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-40" target="ONhmXVHd8KsQxBOS23hd-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-40" value="Unapproved&lt;br&gt;Buy/Sell Orders" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-42" target="ONhmXVHd8KsQxBOS23hd-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-42" value="Updated Portoflio&lt;br&gt;Status" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-43" target="ONhmXVHd8KsQxBOS23hd-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-43" value="Risk&lt;br&gt;Management" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-51" value="Based on Portfolio Status&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Create&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;necessary orders to manage risk&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="900" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-52" value="Based on Risk Managament &amp;amp; Portfolio Status&lt;br&gt;Approve orders to be executed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="950" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-53" value="Use Latest Data&amp;nbsp;for&lt;div&gt;updating exposure risk&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="760" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-54" target="ONhmXVHd8KsQxBOS23hd-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-54" value="Approved&lt;br&gt;Orders" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-56" target="ONhmXVHd8KsQxBOS23hd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-56" value="Execution Engine" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-58" value="Send Approved Orders&lt;br&gt;To Brokers for Execution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="890" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;entryX=0.253;entryY=1.127;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ONhmXVHd8KsQxBOS23hd-59" target="ONhmXVHd8KsQxBOS23hd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-59" value="Fill&amp;nbsp;&lt;br&gt;Orders" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-61" value="GIve Fill Status&lt;br&gt;of Orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1030" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-64" value="Use the orders filled to Update Portfolio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1128" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-65" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-66" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="10" y="54.5" as="sourcePoint" />
+            <mxPoint x="110" y="54.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-67" value="Generate Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-69" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="10" y="90" as="sourcePoint" />
+            <mxPoint x="110" y="90" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhmXVHd8KsQxBOS23hd-70" value="Consume Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
