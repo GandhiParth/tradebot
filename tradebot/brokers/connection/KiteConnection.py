@@ -10,7 +10,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 
 from tradebot.brokers.connection.BrokerConnection import BrokerConnection
-from tradebot.brokers.connection.credentials import KiteCredentials
 from tradebot.brokers.connection.exceptions import (
     BrokerConnectionError,
     TokenGenerationError,
@@ -86,4 +85,4 @@ class KiteConnection(BrokerConnection):
             return kite
         except Exception as e:
             logger.error(e)
-            raise BrokerConnectionError(e)
+            raise BrokerConnectionError(e) from e

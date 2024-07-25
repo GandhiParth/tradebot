@@ -1,6 +1,8 @@
 from abc import ABC, abstractmethod
 from typing import Any, Dict
 
+import yaml
+
 
 class BrokerConnection(ABC):
     """

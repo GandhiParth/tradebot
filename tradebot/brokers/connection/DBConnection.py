@@ -29,9 +29,9 @@ class DBConnection(BrokerConnection):
                 host=self.credentials["host"],
                 port=self.credentials["port"],
             )
-            logger.info(f"Connected to database '{dbname}' successfully!")
+            logger.info(f"Connected to database '{self.dbname}' successfully!")
             return conn
         except Exception as e:
-            logger.error(f"Unable to connect to database '{dbname}'")
+            logger.error(f"Unable to connect to database '{self.dbname}'")
             logger.error(e)
-            raise BrokerConnectionError(e)
+            raise BrokerConnectionError(e) from e

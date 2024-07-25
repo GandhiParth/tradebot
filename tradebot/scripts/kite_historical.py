@@ -147,4 +147,4 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
                 print(f"Faile: {param_map[future]}")
 
         except Exception as e:
-            print(e)
+            raise e

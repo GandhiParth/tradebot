@@ -31,6 +31,9 @@ class KiteInstrumentCheck:
         self.instrument_list = instrument_list
 
     def check_instrument_list(self) -> pl.DataFrame:
+        """
+        checks instrument list wtih appropriate checks
+        """
         main_df = (
             self.instrument_list.lazy()
             .select(pl.exclude("last_price"))
