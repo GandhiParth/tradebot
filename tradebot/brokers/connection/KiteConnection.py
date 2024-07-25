@@ -24,8 +24,8 @@ class KiteConnection(BrokerConnection):
     Handles Connection to Kite broker
     """
 
-    def __init__(self, credentials: KiteCredentials) -> None:
-        super().__init__(credentials)
+    def __init__(self, credentials_yaml_file: str) -> None:
+        super().__init__(credentials_yaml_file)
 
     def _generate_request_token(self) -> str:
         """
@@ -68,6 +68,9 @@ class KiteConnection(BrokerConnection):
         return access_token
 
     def auto_login(self) -> KiteConnect:
+        """
+        automatically logins to Kite
+        """
         request_token = self._generate_request_token()
         access_token = self._generate_access_token(request_token=request_token)
         try:
