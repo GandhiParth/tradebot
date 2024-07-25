@@ -1,19 +1,20 @@
-from tradebot.brokers.connection.BrokerConnection import BrokerConnection
-from tradebot.brokers.connection.credentials import KiteCredentials
-from tradebot.brokers.connection.exceptions import TokenGenerationError
-from kiteconnect import KiteConnect
-
-from datetime import datetime
-import time
+import logging
 import os
+import time
 
+from kiteconnect import KiteConnect
 from pyotp import TOTP
 from selenium import webdriver  # v 4.18.1
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 
-import logging
+from tradebot.brokers.connection.BrokerConnection import BrokerConnection
+from tradebot.brokers.connection.credentials import KiteCredentials
+from tradebot.brokers.connection.exceptions import (
+    BrokerConnectionError,
+    TokenGenerationError,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -24,13 +25,13 @@ class KiteConnection(BrokerConnection):
     """
 
     def __init__(self, credentials: KiteCredentials) -> None:
-        super.__init__(credentials)
+        super().__init__(credentials)
 
-    def generate_request_token(self) -> str:
+    def _generate_request_token(self) -> str:
         """
         Generate request token for KiteConnect
         """
-        kite = KiteConnect(api_key=self.credentials.api_key.value)
+        kite = KiteConnect(api_key=self.credentials["api_key"])
         options = FirefoxOptions()
         options.add_argument("--headless")
         driver = webdriver.Firefox(options=options)
@@ -38,26 +39,26 @@ class KiteConnection(BrokerConnection):
         driver.implicitly_wait(10)
         username = driver.find_element(By.ID, "userid")
         password = driver.find_element(By.ID, "password")
-        username.send_keys(self.credentials.user_id.value)
-        password.send_keys(self.credentials.password.value)
+        username.send_keys(self.credentials["user_id"])
+        password.send_keys(self.credentials["password"])
         driver.find_element(
             By.XPATH, "//button[@class='button-orange wide' and @type='submit']"
         ).send_keys(Keys.ENTER)
         pin = driver.find_element(By.XPATH, '//*[@type="number"]')
-        token = TOTP(self.credentials.totp_key.value).now()
+        token = TOTP(self.credentials["totp_key"]).now()
         pin.send_keys(token)
         time.sleep(10)
         request_token = driver.current_url.split("request_token=")[1][32]
         return request_token
 
-    def generate_access_token(self, request_token: str) -> str:
+    def _generate_access_token(self, request_token: str) -> str:
         """
         Generate access token for the given request_token
         """
-        kite = KiteConnect(api_key=self.credentials.api_key.value)
+        kite = KiteConnect(api_key=self.credentials["api_key"])
         response = kite.generate_session(
             request_token=request_token,
-            api_secret=self.credentials.api_secret_key.value,
+            api_secret=self.credentials["api_secret_key"],
         )
 
         if response["status"] != "success":
@@ -66,20 +67,20 @@ class KiteConnection(BrokerConnection):
         access_token = response["data"]["access_token"]
         return access_token
 
-    def auto_login(self):
-        self.save_token()
-        kite = KiteConnect(
-            api_key=os.getenv("kite_api_key"),
-            access_token=os.getenv("kite_access_token"),
-        )
-        logger.info("Succesfully Connected to Kite !!")
-        return kite
+    def auto_login(self) -> KiteConnect:
+        request_token = self._generate_request_token()
+        access_token = self._generate_access_token(request_token=request_token)
+        try:
+            kite = KiteConnect(
+                api_key=self.credentials["api_key"], access_token=access_token
+            )
+            logger.info("Kite Connection object created successfully")
 
-    def save_token(self) -> None:
-        """
-        Save the tokens to OS variables
-        """
-        os.environ["kite_api_key"] = self.credentials.api_key.value
-        os.environ["kite_access_token"] = self.generate_access_token(
-            request_token=self.generate_request_token()
-        )
+            os.environ["kite_api_key"] = self.credentials["api_key"]
+            os.environ["kite_access_token"] = access_token
+            logger.info("Kite api_key and access_token saved as os variables")
+
+            return kite
+        except Exception as e:
+            logger.error(e)
+            raise BrokerConnectionError(e)

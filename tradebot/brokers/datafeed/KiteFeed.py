@@ -1,6 +1,6 @@
 class KiteFeed(DataFeed):
     """
-    Gets tick data from Kite Broker
+    Create Kite WS object
     """
 
     def __init__(self, connection_object: KiteConnect, subscribe_list: dict):

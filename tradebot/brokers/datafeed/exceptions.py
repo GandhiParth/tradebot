@@ -10,6 +10,7 @@ class ListEnumError(ValueError):
         super().__init__(f"EnumError for{self.list_type}: Details {self.value}")
 
 
-class SubscibeListError(ValueError, value):
-    self.value = value
-    super.__init__(f"""{self.value}""")
+class SubscibeListError(ValueError):
+    def __init__(self, value):
+        self.value = value
+        super().__init__(f"""{self.value}""")

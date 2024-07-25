@@ -1,32 +1,37 @@
-from tradebot.brokers.connection.BrokerConnection import BrokerConnection
-from tradebot.brokers.connection.credentials import DBCredentials
+import logging
+
 import psycopg2
 
-import logging
+from tradebot.brokers.connection.BrokerConnection import BrokerConnection
+from tradebot.brokers.connection.exceptions import BrokerConnectionError
 
 logger = logging.getLogger(__name__)
 
 
 class DBConnection(BrokerConnection):
     """
-    Handles Connection to Different DataBase
+    Handles connection to different PostgreSQL DataBase
     """
 
-    def __init__(self, credentials: DBCredentials) -> None:
-        supre.__init__(credentials)
+    def __init__(self, credentials_yaml_file: str, dbname: str) -> None:
+        """
+        dbname: datbase name to connect
+        """
+        super().__init__(credentials_yaml_file)
+        self.dbname = dbname
 
-    def auto_login(self):
+    def auto_login(self) -> object:
         try:
             conn = psycopg2.connect(
-                dbname=self.credentials.dbname.value,
-                user=self.credentials.user.value,
-                password=self.credentials.password.value,
-                host=self.credentials.host.value,
-                port=self.credentials.port.value,
+                dbname=self.dbname,
+                user=self.credentials["user"],
+                password=self.credentials["password"],
+                host=self.credentials["host"],
+                port=self.credentials["port"],
             )
             logger.info(f"Connected to database '{dbname}' successfully!")
             return conn
-        except psycopg2.Error as e:
-            logger.info(f"Unable to connect to database '{dbname}'")
+        except Exception as e:
+            logger.error(f"Unable to connect to database '{dbname}'")
             logger.error(e)
-            return None
+            raise BrokerConnectionError(e)

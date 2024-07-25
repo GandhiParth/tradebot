@@ -1,2 +1,4 @@
 __pycache__/
 tradebot/brokers/connection/credentials.py
+tradebot/credentials
+tradebot/conf

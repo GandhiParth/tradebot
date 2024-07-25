@@ -1,12 +1,10 @@
-from tradebot.brokers.datafeed.DataFeed import DataFeed
-from tradebot.brokers.datafeed.exceptions import ListEnumError, SubscibeListError
-import os
-from typing import List
-import polars as pl
-from datetime import date
-from collections import Counter
-
 import logging
+from collections import Counter
+from datetime import date
+
+import polars as pl
+
+from tradebot.brokers.datafeed.exceptions import ListEnumError, SubscibeListError
 
 logger = logging.getLogger(__name__)
 
@@ -15,16 +13,24 @@ class KiteInstrumentCheck:
     """
     This class is responsible for santiy chcecks for instrument list received
     from Kite End and saving if evrything goes well
+
+    methods:
+
+    check_instrument_list:
+        check the given instrument list and returns it
+
+    ():
+        runs check_instrument_list
     """
 
-    def __init__(self, instrument_list: pl.DataFrame):
+    def __init__(self, instrument_list: pl.DataFrame) -> None:
         """
         instrument_list:
-            isntrument list received from ktie in polars dataframe
+            instrument list received from ktie in polars dataframe
         """
         self.instrument_list = instrument_list
 
-    def check_instrument_list(self):
+    def check_instrument_list(self) -> pl.DataFrame:
         main_df = (
             self.instrument_list.lazy()
             .select(pl.exclude("last_price"))
@@ -77,12 +83,10 @@ class KiteInstrumentCheck:
         try:
             self.instrument_list = main_df.collect()
             logger.info("Kite Instrument List Enum Check Successful !!")
-        except pl.exceptions.InvalidOperationError as e:
-            raise ListEnumError(list_type="Instrument List", value=e)
         except Exception as e:
-            raise e
+            raise ListEnumError(list_type="Instrument List", value=e) from e
 
-        invalid_df = self.get_invalid_instruments()
+        invalid_df = self._get_invalid_instruments()
 
         if invalid_df.shape[0] != 0:
             logger.warning(
@@ -92,9 +96,11 @@ class KiteInstrumentCheck:
                 due to multiple instrument tokens and have been removed from instrument list.
             """
             )
-        self.get_valid_instruments()
+        self._get_valid_instruments()
 
-    def get_valid_instruments(self):
+        return self.instrument_list
+
+    def _get_valid_instruments(self) -> None:
         """
         Filter the instrument list for tradeable instrument token
         """
@@ -107,7 +113,7 @@ class KiteInstrumentCheck:
             )
         ).collect()
 
-    def get_invalid_instruments(self) -> pl.DataFrame:
+    def _get_invalid_instruments(self) -> pl.DataFrame:
         """
         Returns Dataframe of Symbols that will be invalid to trade
         due to duplicate instrument token
@@ -120,30 +126,35 @@ class KiteInstrumentCheck:
 
         return invalid_df
 
-    def save_instrument_list(self, connection_object: object):
-        self.instrument_list.write_database(
-            table_name="instrument_list_kite",
-            connection=connection_object,
-            if_table_exists="append",
-        )
-        logger.info(f"Kite Instrument List Succesfully written to DataBase")
-
-    def __call__(self, connection_object):
-        self.check_instrument_list()
-        self.save_instrument_list(connection_object=connection_object)
-        return self.instrument_list
+    def __call__(self) -> pl.DataFrame:
+        return self.check_instrument_list()
 
 
 class KiteSubscribeCheck:
     """
     Responsible for sanity checks of symbols we will subscribe
+
+    methods:
+
+    check_subscibe_list:
+        runs check on the subscribe list and returns correct version of it
+
+    ():
+        runs check_subscribe_list
     """
 
-    def __init__(self, file_name: str, instrument_list: pl.DataFrame):
+    def __init__(self, file_name: str, instrument_list: pl.DataFrame) -> None:
+        """
+        file_name:
+            csv file for the subscribe list
+        """
         self.file_name = file_name
         self.instrument_list = instrument_list
 
-    def fields_check(self):
+    def _fields_check(self) -> None:
+        """
+        checks for the exchnage and mode column in subscribe list
+        """
         try:
             self.subscribe_list = (
                 pl.scan_csv(self.file_name).with_columns(
@@ -165,12 +176,13 @@ class KiteSubscribeCheck:
                     pl.col("MODE").cast(pl.Enum(["full", "ltp", "quote"])),
                 )
             ).collect()
-        except pl.exceptions.InvalidOperationError as e:
-            raise ListEnumError(list_type="Subscribe List", value=e)
         except Exception as e:
-            raise e
+            raise ListEnumError(list_type="Subscribe List", value=e) from e
 
-    def length_check(self):
+    def _length_check(self) -> None:
+        """
+        checks if tokens to subscribe adhere to the limit
+        """
         list_len = self.subscribe_list.shape[0]
         if list_len > 3000:
             raise SubscibeListError(
@@ -179,7 +191,11 @@ class KiteSubscribeCheck:
         else:
             logger.info("Subscribe List Length Check Successful")
 
-    def duplication_check(self):
+    def _duplication_check(self) -> None:
+        """
+        checks if duplicate symbols were passed and takes the first occurence
+        if they have been passed
+        """
         duplicate_symbols = (
             (
                 self.subscribe_list.lazy()
@@ -205,7 +221,11 @@ class KiteSubscribeCheck:
         else:
             logger.info("Subscribe List passed Duplication Check")
 
-    def symbol_tradeable(self):
+    def _symbol_tradeable_check(self) -> None:
+        """
+        checks if the symbols are tradeable in the list and if not
+        filters them out of the list
+        """
         not_tradeable_symbols = (
             (
                 self.subscribe_list.join(
@@ -237,18 +257,27 @@ class KiteSubscribeCheck:
             logger.info("all Symbols are Tradeabe in Subscribe List")
 
     def check_subscribe_list(self) -> pl.DataFrame:
-        self.fields_check()
-        self.length_check()
-        self.duplication_check()
-        self.symbol_tradeable()
+        """
+        performs various check on the subscribe list and returns
+        correct version of subscribe list
+        """
+        self._fields_check()
+        self._duplication_check()
+        self._length_check()
+        self._symbol_tradeable_check()
         return self.subscribe_list
 
-    def __call__(self):
+    def __call__(self) -> pl.DataFrame:
         return self.check_subscribe_list()
 
 
-def create_subscribe_list(instrument_list, subscribe_list):
-    return instrument_list.join(
+def create_kws_list(
+    instrument_list: pl.DataFrame, subscribe_list: pl.DataFrame
+) -> pl.DataFrame:
+    """
+    Returns dataframe merged on isntrument list & subscribe list to be used for Kite Web Socket
+    """
+    return +instrument_list.join(
         subscribe_list,
         left_on=["Symbol", "Exchange"],
         right_on=["tradingsymbol", "exchange"],
