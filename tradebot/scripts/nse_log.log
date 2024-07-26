@@ -1,0 +1,1508 @@
+2024-07-26 04:54:46,275 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:55:19,242 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:55:50,427 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:56:18,302 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:56:48,294 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:56:48,295 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HANGSENG BEES-NAV', 'date_of_listing': None}
+2024-07-26 04:57:17,064 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:58:04,242 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:58:27,993 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:58:58,013 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:59:27,837 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 04:59:27,839 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'INDIA VIX', 'date_of_listing': None}
+2024-07-26 04:59:58,461 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:00:50,022 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:01:14,970 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:01:44,772 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:02:14,911 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:02:14,913 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GOLDSTAR-SM', 'date_of_listing': None}
+2024-07-26 05:02:43,027 - NSELogger - INFO : AARTIIND:08-Feb-1995
+2024-07-26 05:02:49,833 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AARTIIND', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 05:02:56,846 - NSELogger - INFO : ABB:08-Feb-1995
+2024-07-26 05:02:59,488 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ABB', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 05:03:26,534 - NSELogger - INFO : STYRENIX:29-Mar-1995
+2024-07-26 05:03:29,196 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'STYRENIX', 'date_of_listing': '29-Mar-1995'}
+2024-07-26 05:03:56,752 - NSELogger - INFO : ACC:20-Nov-1996
+2024-07-26 05:03:59,425 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ACC', 'date_of_listing': '20-Nov-1996'}
+2024-07-26 05:04:44,768 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:05:13,813 - NSELogger - INFO : ADANIENT:04-Jun-1997
+2024-07-26 05:05:20,534 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ADANIENT', 'date_of_listing': '04-Jun-1997'}
+2024-07-26 05:05:45,487 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:06:14,190 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:06:44,231 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:07:15,476 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:08:01,510 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:08:05,585 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GATECHDVR-BE', 'date_of_listing': None}
+2024-07-26 05:08:12,198 - NSELogger - INFO : ADORWELD:10-May-1995
+2024-07-26 05:08:14,898 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ADORWELD', 'date_of_listing': '10-May-1995'}
+2024-07-26 05:08:42,019 - NSELogger - INFO : AEGISLOG:03-Apr-1996
+2024-07-26 05:08:44,639 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AEGISLOG', 'date_of_listing': '03-Apr-1996'}
+2024-07-26 05:09:12,159 - NSELogger - INFO : HAPPSTMNDS:17-Sep-2020
+2024-07-26 05:09:14,811 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HAPPSTMNDS', 'date_of_listing': '17-Sep-2020'}
+2024-07-26 05:09:42,035 - NSELogger - INFO : ALEMBICLTD:22-Sep-1999
+2024-07-26 05:09:44,762 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ALEMBICLTD', 'date_of_listing': '22-Sep-1999'}
+2024-07-26 05:10:45,909 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:11:14,179 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:11:44,359 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:12:14,232 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:12:43,883 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:12:43,885 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BETA-SM', 'date_of_listing': None}
+2024-07-26 05:13:31,730 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:14:00,023 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:14:30,392 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:14:59,575 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:15:29,776 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:15:29,778 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CMMIPL-ST', 'date_of_listing': None}
+2024-07-26 05:16:15,852 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:16:44,601 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:17:13,693 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:17:44,713 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:18:13,677 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:18:13,679 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ARE&M', 'date_of_listing': None}
+2024-07-26 05:18:42,637 - NSELogger - INFO : SHAREINDIA:21-Sep-2020
+2024-07-26 05:18:49,447 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SHAREINDIA', 'date_of_listing': '21-Sep-2020'}
+2024-07-26 05:19:13,678 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:19:44,034 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:20:13,919 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:20:43,626 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:21:30,197 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:21:34,259 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'OMFURN-SM', 'date_of_listing': None}
+2024-07-26 05:21:40,416 - NSELogger - INFO : ROUTE:21-Sep-2020
+2024-07-26 05:21:43,100 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ROUTE', 'date_of_listing': '21-Sep-2020'}
+2024-07-26 05:22:10,960 - NSELogger - INFO : ANDHRSUGAR:01-Nov-1995
+2024-07-26 05:22:13,647 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ANDHRSUGAR', 'date_of_listing': '01-Nov-1995'}
+2024-07-26 05:22:57,972 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:23:28,425 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:24:14,906 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:24:43,717 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:25:13,072 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:25:13,074 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SRPL-BE', 'date_of_listing': None}
+2024-07-26 05:25:25,503 - NSELogger - INFO : GODREJAGRO:16-Oct-2017
+2024-07-26 05:25:28,125 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GODREJAGRO', 'date_of_listing': '16-Oct-2017'}
+2024-07-26 05:25:55,604 - NSELogger - INFO : APCOTEXIND:06-Sep-1995
+2024-07-26 05:25:58,257 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'APCOTEXIND', 'date_of_listing': '06-Sep-1995'}
+2024-07-26 05:26:41,777 - NSELogger - INFO : APOLLOHOSP:10-Jan-1996
+2024-07-26 05:26:48,523 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'APOLLOHOSP', 'date_of_listing': '10-Jan-1996'}
+2024-07-26 05:27:12,667 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:27:43,526 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:28:16,258 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:28:43,520 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:29:29,082 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:29:33,148 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'MILTON-SM', 'date_of_listing': None}
+2024-07-26 05:29:40,447 - NSELogger - INFO : APOLLOTYRE:31-May-1995
+2024-07-26 05:29:43,162 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'APOLLOTYRE', 'date_of_listing': '31-May-1995'}
+2024-07-26 05:30:09,837 - NSELogger - INFO : ANDHRAPAP:13-May-2004
+2024-07-26 05:30:12,467 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ANDHRAPAP', 'date_of_listing': '13-May-2004'}
+2024-07-26 05:30:39,522 - NSELogger - INFO : ARENTERP:18-Oct-1995
+2024-07-26 05:30:42,163 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ARENTERP', 'date_of_listing': '18-Oct-1995'}
+2024-07-26 05:31:09,541 - NSELogger - INFO : TCPLPACK:17-Oct-2017
+2024-07-26 05:31:12,181 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'TCPLPACK', 'date_of_listing': '17-Oct-2017'}
+2024-07-26 05:31:56,060 - NSELogger - INFO : ARVIND:08-Feb-1995
+2024-07-26 05:32:02,759 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ARVIND', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 05:32:09,603 - NSELogger - INFO : MASFIN:18-Oct-2017
+2024-07-26 05:32:12,224 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'MASFIN', 'date_of_listing': '18-Oct-2017'}
+2024-07-26 05:32:39,221 - NSELogger - INFO : UNIDT:25-Sep-2020
+2024-07-26 05:32:41,872 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'UNIDT', 'date_of_listing': '25-Sep-2020'}
+2024-07-26 05:33:14,674 - NSELogger - INFO : ASHAPURMIN:20-Sep-1995
+2024-07-26 05:33:17,348 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ASHAPURMIN', 'date_of_listing': '20-Sep-1995'}
+2024-07-26 05:33:40,853 - NSELogger - INFO : ASHIMASYN:27-Jul-1995
+2024-07-26 05:33:43,507 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ASHIMASYN', 'date_of_listing': '27-Jul-1995'}
+2024-07-26 05:34:25,527 - NSELogger - INFO : ASHOKLEY:25-May-1995
+2024-07-26 05:34:32,274 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ASHOKLEY', 'date_of_listing': '25-May-1995'}
+2024-07-26 05:34:39,793 - NSELogger - INFO : IEX:23-Oct-2017
+2024-07-26 05:34:42,446 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'IEX', 'date_of_listing': '23-Oct-2017'}
+2024-07-26 05:35:27,833 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:35:39,684 - NSELogger - INFO : ASIANPAINT:31-May-1995
+2024-07-26 05:35:42,333 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ASIANPAINT', 'date_of_listing': '31-May-1995'}
+2024-07-26 05:36:27,789 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:37:13,554 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:37:41,745 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:38:11,855 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:38:41,843 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:38:41,844 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AAKASH-BE', 'date_of_listing': None}
+2024-07-26 05:38:54,389 - NSELogger - INFO : ADL:01-Oct-2020
+2024-07-26 05:38:57,085 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ADL', 'date_of_listing': '01-Oct-2020'}
+2024-07-26 05:39:40,283 - NSELogger - INFO : NIRAJ:01-Oct-2020
+2024-07-26 05:39:46,986 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'NIRAJ', 'date_of_listing': '01-Oct-2020'}
+2024-07-26 05:39:53,508 - NSELogger - INFO : ATUL:06-May-1998
+2024-07-26 05:39:56,207 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ATUL', 'date_of_listing': '06-May-1998'}
+2024-07-26 05:40:23,671 - NSELogger - INFO : CHEMCON:01-Oct-2020
+2024-07-26 05:40:26,349 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CHEMCON', 'date_of_listing': '01-Oct-2020'}
+2024-07-26 05:40:54,028 - NSELogger - INFO : AUROPHARMA:19-Jul-2000
+2024-07-26 05:40:56,724 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AUROPHARMA', 'date_of_listing': '19-Jul-2000'}
+2024-07-26 05:41:23,831 - NSELogger - INFO : GICRE:25-Oct-2017
+2024-07-26 05:41:26,486 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GICRE', 'date_of_listing': '25-Oct-2017'}
+2024-07-26 05:42:10,300 - NSELogger - INFO : AUTOAXLES:29-May-2003
+2024-07-26 05:42:17,010 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AUTOAXLES', 'date_of_listing': '29-May-2003'}
+2024-07-26 05:42:23,736 - NSELogger - INFO : BAJAJHLDNG:15-Mar-1995
+2024-07-26 05:42:26,389 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BAJAJHLDNG', 'date_of_listing': '15-Mar-1995'}
+2024-07-26 05:42:54,138 - NSELogger - INFO : BAJAJHIND:10-May-1995
+2024-07-26 05:42:56,755 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BAJAJHIND', 'date_of_listing': '10-May-1995'}
+2024-07-26 05:43:23,768 - NSELogger - INFO : TIINDIA:02-Nov-2017
+2024-07-26 05:43:26,403 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'TIINDIA', 'date_of_listing': '02-Nov-2017'}
+2024-07-26 05:43:53,829 - NSELogger - INFO : BAJFINANCE:01-Apr-2003
+2024-07-26 05:43:56,496 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BAJFINANCE', 'date_of_listing': '01-Apr-2003'}
+2024-07-26 05:44:40,008 - NSELogger - INFO : ANGELONE:05-Oct-2020
+2024-07-26 05:44:46,745 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ANGELONE', 'date_of_listing': '05-Oct-2020'}
+2024-07-26 05:44:54,705 - NSELogger - INFO : VALIANTORG:23-Jul-2021
+2024-07-26 05:44:57,331 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'VALIANTORG', 'date_of_listing': '23-Jul-2021'}
+2024-07-26 05:45:24,408 - NSELogger - INFO : BALKRISIND:27-Jan-2006
+2024-07-26 05:45:27,091 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BALKRISIND', 'date_of_listing': '27-Jan-2006'}
+2024-07-26 05:45:53,753 - NSELogger - INFO : BALMLAWRIE:06-Jul-1995
+2024-07-26 05:45:56,404 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BALMLAWRIE', 'date_of_listing': '06-Jul-1995'}
+2024-07-26 05:46:23,727 - NSELogger - INFO : BALRAMCHIN:08-Feb-1995
+2024-07-26 05:46:26,384 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BALRAMCHIN', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 05:47:10,470 - NSELogger - INFO : CAMS:07-May-2021
+2024-07-26 05:47:17,194 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CAMS', 'date_of_listing': '07-May-2021'}
+2024-07-26 05:47:23,797 - NSELogger - INFO : BANARBEADS:07-Jul-1995
+2024-07-26 05:47:26,472 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BANARBEADS', 'date_of_listing': '07-Jul-1995'}
+2024-07-26 05:47:53,935 - NSELogger - INFO : BANARISUG:28-May-2003
+2024-07-26 05:47:56,606 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BANARISUG', 'date_of_listing': '28-May-2003'}
+2024-07-26 05:48:42,365 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:48:53,970 - NSELogger - INFO : NAM-INDIA:06-Nov-2017
+2024-07-26 05:48:56,677 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'NAM-INDIA', 'date_of_listing': '06-Nov-2017'}
+2024-07-26 05:49:58,398 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:50:27,052 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:50:56,649 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:51:26,264 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:52:02,783 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 05:52:02,786 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ROML-BE', 'date_of_listing': None}
+2024-07-26 05:52:25,771 - NSELogger - INFO : BASF:17-May-1995
+2024-07-26 05:52:32,570 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BASF', 'date_of_listing': '17-May-1995'}
+2024-07-26 05:52:39,160 - NSELogger - INFO : BATAINDIA:18-Jun-2003
+2024-07-26 05:52:41,852 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BATAINDIA', 'date_of_listing': '18-Jun-2003'}
+2024-07-26 05:53:09,857 - NSELogger - INFO : BBTC:03-Apr-1996
+2024-07-26 05:53:12,503 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BBTC', 'date_of_listing': '03-Apr-1996'}
+2024-07-26 05:53:38,928 - NSELogger - INFO : SINTERCOM:07-Oct-2020
+2024-07-26 05:53:41,613 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SINTERCOM', 'date_of_listing': '07-Oct-2020'}
+2024-07-26 05:54:09,262 - NSELogger - INFO : BEL:19-Jul-2000
+2024-07-26 05:54:11,886 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BEL', 'date_of_listing': '19-Jul-2000'}
+2024-07-26 05:54:58,531 - NSELogger - INFO : MAHLOG:10-Nov-2017
+2024-07-26 05:55:05,725 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'MAHLOG', 'date_of_listing': '10-Nov-2017'}
+2024-07-26 05:55:14,290 - NSELogger - INFO : GLOBE:07-Oct-2020
+2024-07-26 05:55:17,458 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GLOBE', 'date_of_listing': '07-Oct-2020'}
+2024-07-26 05:55:44,485 - NSELogger - INFO : BEML:05-Nov-2003
+2024-07-26 05:55:47,614 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BEML', 'date_of_listing': '05-Nov-2003'}
+2024-07-26 05:56:14,913 - NSELogger - INFO : NIACL:13-Nov-2017
+2024-07-26 05:56:18,045 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'NIACL', 'date_of_listing': '13-Nov-2017'}
+2024-07-26 05:56:44,737 - NSELogger - INFO : BERGEPAINT:24-Nov-1999
+2024-07-26 05:56:47,939 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BERGEPAINT', 'date_of_listing': '24-Nov-1999'}
+2024-07-26 05:57:31,425 - NSELogger - INFO : BEPL:21-Mar-2005
+2024-07-26 05:57:38,636 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BEPL', 'date_of_listing': '21-Mar-2005'}
+2024-07-26 05:57:47,063 - NSELogger - INFO : BHARATFORG:04-Apr-2003
+2024-07-26 05:57:50,278 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BHARATFORG', 'date_of_listing': '04-Apr-2003'}
+2024-07-26 05:58:17,029 - NSELogger - INFO : KHADIM:14-Nov-2017
+2024-07-26 05:58:20,188 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'KHADIM', 'date_of_listing': '14-Nov-2017'}
+2024-07-26 05:58:47,109 - NSELogger - INFO : BHARATGEAR:03-Apr-1996
+2024-07-26 05:58:50,359 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BHARATGEAR', 'date_of_listing': '03-Apr-1996'}
+2024-07-26 05:59:17,398 - NSELogger - INFO : IFGLEXPOR:14-Nov-2017
+2024-07-26 05:59:20,655 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'IFGLEXPOR', 'date_of_listing': '14-Nov-2017'}
+2024-07-26 06:00:03,364 - NSELogger - INFO : BHEL:11-Nov-2003
+2024-07-26 06:00:10,679 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BHEL', 'date_of_listing': '11-Nov-2003'}
+2024-07-26 06:00:19,030 - NSELogger - INFO : 5PAISA:16-Nov-2017
+2024-07-26 06:00:22,132 - NSELogger - INFO : Data appended to CSV file: {'symbol': '5PAISA', 'date_of_listing': '16-Nov-2017'}
+2024-07-26 06:00:49,207 - NSELogger - INFO : HDFCLIFE:17-Nov-2017
+2024-07-26 06:00:52,549 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HDFCLIFE', 'date_of_listing': '17-Nov-2017'}
+2024-07-26 06:01:19,661 - NSELogger - INFO : OSWALGREEN:28-Aug-1996
+2024-07-26 06:01:22,797 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'OSWALGREEN', 'date_of_listing': '28-Aug-1996'}
+2024-07-26 06:01:49,539 - NSELogger - INFO : 3MINDIA:13-Aug-2004
+2024-07-26 06:01:52,881 - NSELogger - INFO : Data appended to CSV file: {'symbol': '3MINDIA', 'date_of_listing': '13-Aug-2004'}
+2024-07-26 06:02:35,894 - NSELogger - INFO : BIRLACABLE:06-Dec-1995
+2024-07-26 06:02:43,165 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BIRLACABLE', 'date_of_listing': '06-Dec-1995'}
+2024-07-26 06:02:51,515 - NSELogger - INFO : BIRLACORPN:12-Apr-1995
+2024-07-26 06:02:54,680 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BIRLACORPN', 'date_of_listing': '12-Apr-1995'}
+2024-07-26 06:03:40,142 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:04:10,324 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:04:40,683 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:05:26,927 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:05:57,638 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:05:57,641 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AISL-ST', 'date_of_listing': None}
+2024-07-26 06:06:09,751 - NSELogger - INFO : ICEMAKE:12-Oct-2020
+2024-07-26 06:06:12,999 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ICEMAKE', 'date_of_listing': '12-Oct-2020'}
+2024-07-26 06:06:39,619 - NSELogger - INFO : BLUEDART:12-Dec-2002
+2024-07-26 06:06:42,756 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BLUEDART', 'date_of_listing': '12-Dec-2002'}
+2024-07-26 06:07:27,652 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:08:14,602 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:08:45,002 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:09:15,657 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:09:45,679 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:09:45,682 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'PULZ-SM', 'date_of_listing': None}
+2024-07-26 06:09:57,144 - NSELogger - INFO : MAZDOCK:12-Oct-2020
+2024-07-26 06:10:00,418 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'MAZDOCK', 'date_of_listing': '12-Oct-2020'}
+2024-07-26 06:10:43,031 - NSELogger - INFO : BOMDYEING:26-Apr-1995
+2024-07-26 06:10:46,154 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BOMDYEING', 'date_of_listing': '26-Apr-1995'}
+2024-07-26 06:11:16,223 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:11:27,155 - NSELogger - INFO : ICICIB22:28-Nov-2017
+2024-07-26 06:11:30,436 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ICICIB22', 'date_of_listing': '28-Nov-2017'}
+2024-07-26 06:11:57,360 - NSELogger - INFO : BPCL:13-Sep-1995
+2024-07-26 06:12:00,626 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BPCL', 'date_of_listing': '13-Sep-1995'}
+2024-07-26 06:12:43,517 - NSELogger - INFO : UTIAMC:12-Oct-2020
+2024-07-26 06:12:50,923 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'UTIAMC', 'date_of_listing': '12-Oct-2020'}
+2024-07-26 06:12:59,037 - NSELogger - INFO : BPL:14-Jun-1995
+2024-07-26 06:13:02,293 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BPL', 'date_of_listing': '14-Jun-1995'}
+2024-07-26 06:13:30,287 - NSELogger - INFO : BRITANNIA:05-Nov-1998
+2024-07-26 06:13:33,435 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BRITANNIA', 'date_of_listing': '05-Nov-1998'}
+2024-07-26 06:13:59,161 - NSELogger - INFO : RELINFRA:08-Feb-1995
+2024-07-26 06:14:02,466 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'RELINFRA', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 06:14:33,534 - NSELogger - INFO : BSL:27-Jul-1995
+2024-07-26 06:14:36,682 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BSL', 'date_of_listing': '27-Jul-1995'}
+2024-07-26 06:15:34,538 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:16:05,856 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:16:35,564 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:17:18,920 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:17:45,867 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:17:45,870 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'FELIX-SM', 'date_of_listing': None}
+2024-07-26 06:18:14,366 - NSELogger - INFO : LIKHITHA:15-Oct-2020
+2024-07-26 06:18:21,718 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'LIKHITHA', 'date_of_listing': '15-Oct-2020'}
+2024-07-26 06:18:30,795 - NSELogger - INFO : CANFINHOME:10-May-1995
+2024-07-26 06:18:33,944 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CANFINHOME', 'date_of_listing': '10-May-1995'}
+2024-07-26 06:19:00,920 - NSELogger - INFO : GRAPHITE:07-Feb-2003
+2024-07-26 06:19:04,155 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GRAPHITE', 'date_of_listing': '07-Feb-2003'}
+2024-07-26 06:19:30,587 - NSELogger - INFO : CARBORUNIV:03-Apr-1996
+2024-07-26 06:19:33,888 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CARBORUNIV', 'date_of_listing': '03-Apr-1996'}
+2024-07-26 06:20:00,395 - NSELogger - INFO : CENTENKA:10-May-1995
+2024-07-26 06:20:03,677 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CENTENKA', 'date_of_listing': '10-May-1995'}
+2024-07-26 06:20:46,874 - NSELogger - INFO : CENTURYTEX:27-Jun-2003
+2024-07-26 06:20:54,017 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CENTURYTEX', 'date_of_listing': '27-Jun-2003'}
+2024-07-26 06:21:02,982 - NSELogger - INFO : CESC:08-Feb-1995
+2024-07-26 06:21:06,119 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CESC', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 06:21:33,161 - NSELogger - INFO : IGARASHI:09-Oct-2003
+2024-07-26 06:21:36,313 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'IGARASHI', 'date_of_listing': '09-Oct-2003'}
+2024-07-26 06:22:03,050 - NSELogger - INFO : CHAMBLFERT:14-Jun-1995
+2024-07-26 06:22:06,166 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CHAMBLFERT', 'date_of_listing': '14-Jun-1995'}
+2024-07-26 06:22:32,986 - NSELogger - INFO : DNAMEDIA:11-Dec-2017
+2024-07-26 06:22:36,096 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DNAMEDIA', 'date_of_listing': '11-Dec-2017'}
+2024-07-26 06:23:38,059 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:24:10,540 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:24:38,800 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:25:09,011 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:25:40,418 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:25:40,421 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SUULD-BE', 'date_of_listing': None}
+2024-07-26 06:26:25,741 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:26:56,926 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:27:27,068 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:27:57,270 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:28:27,336 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:28:27,339 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'INNOVANA-SM', 'date_of_listing': None}
+2024-07-26 06:28:56,200 - NSELogger - INFO : EXIDEIND:17-Jun-2003
+2024-07-26 06:29:03,618 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'EXIDEIND', 'date_of_listing': '17-Jun-2003'}
+2024-07-26 06:29:12,405 - NSELogger - INFO : CHOLAFIN:15-May-1996
+2024-07-26 06:29:15,576 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CHOLAFIN', 'date_of_listing': '15-May-1996'}
+2024-07-26 06:29:42,084 - NSELogger - INFO : CIPLA:08-Feb-1995
+2024-07-26 06:29:45,355 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CIPLA', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 06:30:12,452 - NSELogger - INFO : HEMIPROP:22-Oct-2020
+2024-07-26 06:30:15,650 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HEMIPROP', 'date_of_listing': '22-Oct-2020'}
+2024-07-26 06:30:42,533 - NSELogger - INFO : DICIND:30-Aug-1995
+2024-07-26 06:30:45,651 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DICIND', 'date_of_listing': '30-Aug-1995'}
+2024-07-26 06:31:28,598 - NSELogger - INFO : SHALBY:15-Dec-2017
+2024-07-26 06:31:35,930 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SHALBY', 'date_of_listing': '15-Dec-2017'}
+2024-07-26 06:31:44,555 - NSELogger - INFO : HEUBACHIND:14-Jun-1995
+2024-07-26 06:31:47,831 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HEUBACHIND', 'date_of_listing': '14-Jun-1995'}
+2024-07-26 06:32:33,186 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:33:02,888 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:33:33,136 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:34:19,320 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:34:50,444 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:34:50,447 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SHRADHA-BE', 'date_of_listing': None}
+2024-07-26 06:35:02,463 - NSELogger - INFO : SBIETFPB:22-Oct-2020
+2024-07-26 06:35:05,743 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SBIETFPB', 'date_of_listing': '22-Oct-2020'}
+2024-07-26 06:35:31,660 - NSELogger - INFO : COROMANDEL:31-May-1995
+2024-07-26 06:35:34,797 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'COROMANDEL', 'date_of_listing': '31-May-1995'}
+2024-07-26 06:36:02,476 - NSELogger - INFO : SBIETFIT:22-Oct-2020
+2024-07-26 06:36:05,739 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SBIETFIT', 'date_of_listing': '22-Oct-2020'}
+2024-07-26 06:36:48,513 - NSELogger - INFO : COSMOFIRST:25-May-1995
+2024-07-26 06:36:55,830 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'COSMOFIRST', 'date_of_listing': '25-May-1995'}
+2024-07-26 06:37:04,916 - NSELogger - INFO : CRISIL:28-Jun-1995
+2024-07-26 06:37:08,164 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CRISIL', 'date_of_listing': '28-Jun-1995'}
+2024-07-26 06:37:34,687 - NSELogger - INFO : CGPOWER:01-Mar-1995
+2024-07-26 06:37:37,901 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CGPOWER', 'date_of_listing': '01-Mar-1995'}
+2024-07-26 06:38:04,594 - NSELogger - INFO : DABUR:28-Apr-1999
+2024-07-26 06:38:07,824 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DABUR', 'date_of_listing': '28-Apr-1999'}
+2024-07-26 06:38:34,776 - NSELogger - INFO : DALMIASUG:17-Jan-1996
+2024-07-26 06:38:37,912 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DALMIASUG', 'date_of_listing': '17-Jan-1996'}
+2024-07-26 06:39:20,973 - NSELogger - INFO : SHIVATEX:26-Dec-2017
+2024-07-26 06:39:28,279 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SHIVATEX', 'date_of_listing': '26-Dec-2017'}
+2024-07-26 06:39:36,735 - NSELogger - INFO : DCM:29-Mar-1995
+2024-07-26 06:39:39,974 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DCM', 'date_of_listing': '29-Mar-1995'}
+2024-07-26 06:40:06,990 - NSELogger - INFO : BSHSL:28-Oct-2020
+2024-07-26 06:40:10,218 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BSHSL', 'date_of_listing': '28-Oct-2020'}
+2024-07-26 06:40:36,573 - NSELogger - INFO : DCMSHRIRAM:12-Apr-1995
+2024-07-26 06:40:39,751 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DCMSHRIRAM', 'date_of_listing': '12-Apr-1995'}
+2024-07-26 06:41:06,894 - NSELogger - INFO : DCW:25-May-1995
+2024-07-26 06:41:10,045 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DCW', 'date_of_listing': '25-May-1995'}
+2024-07-26 06:41:53,150 - NSELogger - INFO : DEEPAKFERT:17-Jan-2003
+2024-07-26 06:42:00,444 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DEEPAKFERT', 'date_of_listing': '17-Jan-2003'}
+2024-07-26 06:42:27,496 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:42:58,076 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:43:28,725 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:43:57,092 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:44:43,917 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:44:47,975 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'BANKA-BE', 'date_of_listing': None}
+2024-07-26 06:45:15,694 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:45:44,890 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:46:15,529 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:46:47,012 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:47:31,615 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:47:35,659 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SMVD-ST', 'date_of_listing': None}
+2024-07-26 06:47:44,535 - NSELogger - INFO : DHAMPURSUG:29-Mar-1995
+2024-07-26 06:47:47,701 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DHAMPURSUG', 'date_of_listing': '29-Mar-1995'}
+2024-07-26 06:48:32,674 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 06:49:02,653 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:19:31,346 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:20:19,012 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:20:50,163 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:20:50,167 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ASTRON-BE', 'date_of_listing': None}
+2024-07-26 12:21:02,001 - NSELogger - INFO : DRREDDY:30-May-2003
+2024-07-26 12:21:05,264 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DRREDDY', 'date_of_listing': '30-May-2003'}
+2024-07-26 12:21:49,727 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:22:01,412 - NSELogger - INFO : KHAICHEM:30-Oct-2020
+2024-07-26 12:22:04,666 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'KHAICHEM', 'date_of_listing': '30-Oct-2020'}
+2024-07-26 12:22:47,925 - NSELogger - INFO : EICHERMOT:07-Sep-2004
+2024-07-26 12:22:55,274 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'EICHERMOT', 'date_of_listing': '07-Sep-2004'}
+2024-07-26 12:23:03,979 - NSELogger - INFO : EQUITASBNK:02-Nov-2020
+2024-07-26 12:23:07,217 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'EQUITASBNK', 'date_of_listing': '02-Nov-2020'}
+2024-07-26 12:23:33,930 - NSELogger - INFO : EIDPARRY:10-May-1995
+2024-07-26 12:23:37,083 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'EIDPARRY', 'date_of_listing': '10-May-1995'}
+2024-07-26 12:24:21,993 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:24:33,668 - NSELogger - INFO : EIHOTEL:08-Feb-1995
+2024-07-26 12:24:36,989 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'EIHOTEL', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 12:25:20,275 - NSELogger - INFO : ORCHPHARMA:02-Nov-2020
+2024-07-26 12:25:27,478 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ORCHPHARMA', 'date_of_listing': '02-Nov-2020'}
+2024-07-26 12:25:35,861 - NSELogger - INFO : ELECTCAST:20-Jun-2003
+2024-07-26 12:25:39,004 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ELECTCAST', 'date_of_listing': '20-Jun-2003'}
+2024-07-26 12:26:06,185 - NSELogger - INFO : DPABHUSHAN:03-Nov-2020
+2024-07-26 12:26:09,320 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DPABHUSHAN', 'date_of_listing': '03-Nov-2020'}
+2024-07-26 12:26:35,879 - NSELogger - INFO : ELGIEQUIP:22-Nov-1995
+2024-07-26 12:26:39,018 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ELGIEQUIP', 'date_of_listing': '22-Nov-1995'}
+2024-07-26 12:27:06,154 - NSELogger - INFO : PGHL:24-Apr-1996
+2024-07-26 12:27:09,380 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'PGHL', 'date_of_listing': '24-Apr-1996'}
+2024-07-26 12:27:56,108 - NSELogger - INFO : ESABINDIA:01-Nov-1995
+2024-07-26 12:28:03,495 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ESABINDIA', 'date_of_listing': '01-Nov-1995'}
+2024-07-26 12:28:12,576 - NSELogger - INFO : ESCORTS:01-Mar-1995
+2024-07-26 12:28:15,723 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ESCORTS', 'date_of_listing': '01-Mar-1995'}
+2024-07-26 12:28:42,514 - NSELogger - INFO : SUBEXLTD:05-Nov-2020
+2024-07-26 12:28:45,758 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SUBEXLTD', 'date_of_listing': '05-Nov-2020'}
+2024-07-26 12:29:14,205 - NSELogger - INFO : EPL:11-Feb-2002
+2024-07-26 12:29:17,342 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'EPL', 'date_of_listing': '11-Feb-2002'}
+2024-07-26 12:29:42,245 - NSELogger - INFO : EVERESTIND:29-Mar-1995
+2024-07-26 12:29:45,378 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'EVERESTIND', 'date_of_listing': '29-Mar-1995'}
+2024-07-26 12:30:47,244 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:31:18,622 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:31:29,729 - NSELogger - INFO : EUROTEXIND:31-Jan-1996
+2024-07-26 12:31:33,009 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'EUROTEXIND', 'date_of_listing': '31-Jan-1996'}
+2024-07-26 12:32:00,249 - NSELogger - INFO : FACT:12-Apr-1995
+2024-07-26 12:32:03,527 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'FACT', 'date_of_listing': '12-Apr-1995'}
+2024-07-26 12:32:29,630 - NSELogger - INFO : SCHAEFFLER:29-Nov-2000
+2024-07-26 12:32:32,769 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SCHAEFFLER', 'date_of_listing': '29-Nov-2000'}
+2024-07-26 12:33:16,511 - NSELogger - INFO : FEDERALBNK:08-Feb-1995
+2024-07-26 12:33:23,808 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'FEDERALBNK', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 12:33:51,277 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:34:01,741 - NSELogger - INFO : AARON:06-Nov-2020
+2024-07-26 12:34:05,021 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AARON', 'date_of_listing': '06-Nov-2020'}
+2024-07-26 12:34:32,923 - NSELogger - INFO : FINCABLES:15-Feb-1995
+2024-07-26 12:34:36,092 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'FINCABLES', 'date_of_listing': '15-Feb-1995'}
+2024-07-26 12:35:02,837 - NSELogger - INFO : FINPIPE:08-Feb-1995
+2024-07-26 12:35:06,071 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'FINPIPE', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 12:35:49,136 - NSELogger - INFO : AXISBNKETF:09-Nov-2020
+2024-07-26 12:35:56,320 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AXISBNKETF', 'date_of_listing': '09-Nov-2020'}
+2024-07-26 12:36:05,529 - NSELogger - INFO : UFLEX:23-Aug-1995
+2024-07-26 12:36:08,788 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'UFLEX', 'date_of_listing': '23-Aug-1995'}
+2024-07-26 12:36:35,634 - NSELogger - INFO : FOSECOIND:05-May-2003
+2024-07-26 12:36:38,806 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'FOSECOIND', 'date_of_listing': '05-May-2003'}
+2024-07-26 12:37:23,790 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:38:03,526 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:38:31,256 - NSELogger - INFO : ZENSARTECH:09-Jul-2003
+2024-07-26 12:38:38,634 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ZENSARTECH', 'date_of_listing': '09-Jul-2003'}
+2024-07-26 12:38:47,191 - NSELogger - INFO : GABRIEL:20-Apr-2005
+2024-07-26 12:38:50,317 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GABRIEL', 'date_of_listing': '20-Apr-2005'}
+2024-07-26 12:39:18,293 - NSELogger - INFO : GARFIBRES:03-Apr-2007
+2024-07-26 12:39:21,573 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GARFIBRES', 'date_of_listing': '03-Apr-2007'}
+2024-07-26 12:39:50,494 - NSELogger - ERROR : Message: Element <h2 id="Trade_Information_pg"> is not clickable at point (169,355) because another element <span class="invisibleText"> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:337:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:176:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:135:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:204:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:84:31
+
+2024-07-26 12:40:18,398 - NSELogger - INFO : DANGEE:13-Nov-2020
+2024-07-26 12:40:21,547 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DANGEE', 'date_of_listing': '13-Nov-2020'}
+2024-07-26 12:41:04,689 - NSELogger - INFO : GHCL:31-Jul-2003
+2024-07-26 12:41:12,083 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GHCL', 'date_of_listing': '31-Jul-2003'}
+2024-07-26 12:41:20,816 - NSELogger - INFO : APOLLO:22-Jan-2018
+2024-07-26 12:41:23,966 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'APOLLO', 'date_of_listing': '22-Jan-2018'}
+2024-07-26 12:42:09,935 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:42:39,416 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:43:09,245 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:43:55,730 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:44:25,916 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:44:25,919 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GTECJAINX-BE', 'date_of_listing': None}
+2024-07-26 12:44:38,497 - NSELogger - INFO : GICHSGFIN:08-May-1996
+2024-07-26 12:44:41,719 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GICHSGFIN', 'date_of_listing': '08-May-1996'}
+2024-07-26 12:45:08,784 - NSELogger - INFO : GINNIFILA:10-May-1995
+2024-07-26 12:45:11,910 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GINNIFILA', 'date_of_listing': '10-May-1995'}
+2024-07-26 12:45:38,604 - NSELogger - INFO : SDL24BEES:18-Nov-2020
+2024-07-26 12:45:41,793 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SDL24BEES', 'date_of_listing': '18-Nov-2020'}
+2024-07-26 12:46:25,511 - NSELogger - INFO : GIPCL:08-Feb-1995
+2024-07-26 12:46:32,681 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GIPCL', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 12:46:41,146 - NSELogger - INFO : GLAXO:15-Dec-2000
+2024-07-26 12:46:44,467 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GLAXO', 'date_of_listing': '15-Dec-2000'}
+2024-07-26 12:47:12,017 - NSELogger - INFO : NEWGEN:29-Jan-2018
+2024-07-26 12:47:15,151 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'NEWGEN', 'date_of_listing': '29-Jan-2018'}
+2024-07-26 12:47:41,326 - NSELogger - INFO : GMBREW:23-Aug-1995
+2024-07-26 12:47:44,451 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GMBREW', 'date_of_listing': '23-Aug-1995'}
+2024-07-26 12:48:11,646 - NSELogger - INFO : GNFC:17-May-1995
+2024-07-26 12:48:14,888 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GNFC', 'date_of_listing': '17-May-1995'}
+2024-07-26 12:48:57,717 - NSELogger - INFO : GODFRYPHLP:24-Jul-1996
+2024-07-26 12:49:04,916 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GODFRYPHLP', 'date_of_listing': '24-Jul-1996'}
+2024-07-26 12:49:13,615 - NSELogger - INFO : AMBER:30-Jan-2018
+2024-07-26 12:49:16,790 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AMBER', 'date_of_listing': '30-Jan-2018'}
+2024-07-26 12:49:43,667 - NSELogger - INFO : GLAND:20-Nov-2020
+2024-07-26 12:49:46,965 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GLAND', 'date_of_listing': '20-Nov-2020'}
+2024-07-26 12:50:13,610 - NSELogger - INFO : FMGOETZE:08-Feb-1995
+2024-07-26 12:50:16,774 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'FMGOETZE', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 12:50:43,839 - NSELogger - INFO : KANSAINER:15-Sep-2003
+2024-07-26 12:50:46,991 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'KANSAINER', 'date_of_listing': '15-Sep-2003'}
+2024-07-26 12:51:30,034 - NSELogger - INFO : ESG:24-Nov-2020
+2024-07-26 12:51:37,227 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ESG', 'date_of_listing': '24-Nov-2020'}
+2024-07-26 12:51:45,626 - NSELogger - INFO : DELTAMAGNT:18-Oct-1995
+2024-07-26 12:51:48,806 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'DELTAMAGNT', 'date_of_listing': '18-Oct-1995'}
+2024-07-26 12:52:33,918 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:53:04,964 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:53:34,663 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:54:21,104 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:54:52,655 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:54:52,658 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'PRAXIS-BE', 'date_of_listing': None}
+2024-07-26 12:55:22,100 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:55:52,385 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:56:22,364 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:57:08,437 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:57:39,430 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 12:57:39,432 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SOLEX-SM', 'date_of_listing': None}
+2024-07-26 12:57:51,003 - NSELogger - INFO : GRASIM:10-May-1995
+2024-07-26 12:57:54,265 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GRASIM', 'date_of_listing': '10-May-1995'}
+2024-07-26 12:58:21,489 - NSELogger - INFO : GREAVESCOT:09-Sep-2004
+2024-07-26 12:58:24,706 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GREAVESCOT', 'date_of_listing': '09-Sep-2004'}
+2024-07-26 12:58:51,336 - NSELogger - INFO : GSFC:06-Sep-1995
+2024-07-26 12:58:54,471 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GSFC', 'date_of_listing': '06-Sep-1995'}
+2024-07-26 12:59:38,994 - NSELogger - INFO : CASTROLIND:14-Mar-2014
+2024-07-26 12:59:46,163 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'CASTROLIND', 'date_of_listing': '14-Mar-2014'}
+2024-07-26 12:59:54,629 - NSELogger - INFO : GUJALKALI:07-Aug-1997
+2024-07-26 12:59:57,933 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GUJALKALI', 'date_of_listing': '07-Aug-1997'}
+2024-07-26 13:00:24,240 - NSELogger - INFO : AMBUJACEM:18-Feb-1998
+2024-07-26 13:00:27,502 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AMBUJACEM', 'date_of_listing': '18-Feb-1998'}
+2024-07-26 13:01:13,052 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:01:43,632 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:02:29,377 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:03:00,372 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:03:31,364 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:03:31,367 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'VASA-SM', 'date_of_listing': None}
+2024-07-26 13:03:42,543 - NSELogger - INFO : GFLLIMITED:25-May-1995
+2024-07-26 13:03:45,678 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GFLLIMITED', 'date_of_listing': '25-May-1995'}
+2024-07-26 13:04:12,246 - NSELogger - INFO : HARRMALAYA:08-Feb-1995
+2024-07-26 13:04:15,528 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HARRMALAYA', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 13:04:58,323 - NSELogger - INFO : GALAXYSURF:08-Feb-2018
+2024-07-26 13:05:05,551 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GALAXYSURF', 'date_of_listing': '08-Feb-2018'}
+2024-07-26 13:05:14,616 - NSELogger - INFO : MARINE:02-Dec-2020
+2024-07-26 13:05:18,115 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'MARINE', 'date_of_listing': '02-Dec-2020'}
+2024-07-26 13:05:44,262 - NSELogger - INFO : HDFCBANK:08-Nov-1995
+2024-07-26 13:05:47,449 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HDFCBANK', 'date_of_listing': '08-Nov-1995'}
+2024-07-26 13:06:14,004 - NSELogger - INFO : HEG:10-May-1995
+2024-07-26 13:06:17,143 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HEG', 'date_of_listing': '10-May-1995'}
+2024-07-26 13:06:44,237 - NSELogger - INFO : SDBL:18-Mar-2014
+2024-07-26 13:06:47,348 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SDBL', 'date_of_listing': '18-Mar-2014'}
+2024-07-26 13:07:30,813 - NSELogger - INFO : HEROMOTOCO:11-Apr-2003
+2024-07-26 13:07:37,979 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HEROMOTOCO', 'date_of_listing': '11-Apr-2003'}
+2024-07-26 13:07:47,166 - NSELogger - INFO : HIMATSEIDE:08-Feb-1995
+2024-07-26 13:07:50,286 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HIMATSEIDE', 'date_of_listing': '08-Feb-1995'}
+2024-07-26 13:08:16,414 - NSELogger - INFO : HINDALCO:08-Jan-1997
+2024-07-26 13:08:19,733 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HINDALCO', 'date_of_listing': '08-Jan-1997'}
+2024-07-26 13:08:46,838 - NSELogger - INFO : HINDCOMPOS:08-May-1996
+2024-07-26 13:08:49,981 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HINDCOMPOS', 'date_of_listing': '08-May-1996'}
+2024-07-26 13:09:16,749 - NSELogger - INFO : HCC:01-Apr-2003
+2024-07-26 13:09:19,872 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HCC', 'date_of_listing': '01-Apr-2003'}
+2024-07-26 13:10:02,925 - NSELogger - INFO : HINDUNILVR:06-Jul-1995
+2024-07-26 13:10:10,328 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HINDUNILVR', 'date_of_listing': '06-Jul-1995'}
+2024-07-26 13:10:37,204 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:11:07,100 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:11:37,343 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:12:08,506 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:12:55,580 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:12:59,651 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SUPREMEENG-BE', 'date_of_listing': None}
+2024-07-26 13:13:08,963 - NSELogger - INFO : HINDOILEXP:23-Sep-2003
+2024-07-26 13:13:12,124 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HINDOILEXP', 'date_of_listing': '23-Sep-2003'}
+2024-07-26 13:13:39,057 - NSELogger - INFO : HINDPETRO:17-Jun-1998
+2024-07-26 13:13:42,339 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HINDPETRO', 'date_of_listing': '17-Jun-1998'}
+2024-07-26 13:14:08,932 - NSELogger - INFO : AGI:31-May-2000
+2024-07-26 13:14:12,214 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AGI', 'date_of_listing': '31-May-2000'}
+2024-07-26 13:14:57,357 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:15:43,725 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:16:14,893 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:16:44,722 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:17:14,698 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:17:14,700 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'GLOBAL-BE', 'date_of_listing': None}
+2024-07-26 13:17:26,916 - NSELogger - INFO : HINDZINC:21-Nov-2006
+2024-07-26 13:17:30,316 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HINDZINC', 'date_of_listing': '21-Nov-2006'}
+2024-07-26 13:18:30,905 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:19:01,504 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:19:32,199 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:20:02,693 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:20:31,657 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:20:31,660 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'MHHL-SM', 'date_of_listing': None}
+2024-07-26 13:20:59,884 - NSELogger - INFO : SANOFI:19-May-2003
+2024-07-26 13:21:07,226 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'SANOFI', 'date_of_listing': '19-May-2003'}
+2024-07-26 13:21:15,261 - NSELogger - INFO : HIL:26-Apr-1995
+2024-07-26 13:21:18,470 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'HIL', 'date_of_listing': '26-Apr-1995'}
+2024-07-26 13:21:46,052 - NSELogger - INFO : AKZOINDIA:28-Jun-2001
+2024-07-26 13:21:49,246 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'AKZOINDIA', 'date_of_listing': '28-Jun-2001'}
+2024-07-26 13:22:34,139 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:23:04,543 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:23:50,942 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:24:22,284 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:24:52,003 - NSELogger - ERROR : Message: Unable to locate element: [id="Date_of_Listing"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-26 13:24:52,006 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'ACCURACY-BE', 'date_of_listing': None}
+2024-07-26 13:25:04,183 - NSELogger - INFO : IDBI:20-Sep-1995
+2024-07-26 13:25:07,459 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'IDBI', 'date_of_listing': '20-Sep-1995'}
+2024-07-26 13:25:33,483 - NSELogger - INFO : REPL:14-Dec-2020
+2024-07-26 13:25:36,796 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'REPL', 'date_of_listing': '14-Dec-2020'}
+2024-07-26 13:26:21,237 - NSELogger - INFO : IFBAGRO:06-Dec-2000
+2024-07-26 13:26:28,493 - NSELogger - INFO : Data appended to CSV file: {'symbol': 'IFBAGRO', 'date_of_listing': '06-Dec-2000'}
+2024-07-26 13:26:36,980 - NSELogger - INFO : IFBIND:29-Mar-1995
