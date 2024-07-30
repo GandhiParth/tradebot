@@ -1,0 +1,29 @@
+table_name: "listing_dates"
+
+SCHEMA:
+  tradingsymbol:
+    type: VARCHAR(20)
+    nullable: False
+  name:
+    type: VARCHAR(100)
+    nullable: False
+  instrument_type:
+    type: VARCHAR(5)
+    nullable: False
+  exchange:
+    type: VARCHAR(5)
+    nullable: False
+  listing_date:
+    type: TIMESTAMP
+    nullable: False
+
+  primary_key:
+    - exchange
+    - tradingsymbol
+
+  indexes:
+    idx_exchange: exchange
+    idx_composite_exchange_instrument: [exchange, instrument_type]
+
+  timescale:
+    - listing_date
