@@ -25,5 +25,5 @@ SCHEMA:
     idx_exchange: exchange
     idx_composite_exchange_instrument: [exchange, instrument_type]
 
-  timescale:
-    - listing_date
+  # timescale:
+  # - listing_date
