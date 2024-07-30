@@ -1,7 +1,6 @@
 from abc import ABC, abstractmethod
-from typing import Any, Dict
 
-import yaml
+from tradebot.utils.utils import read_yaml_file
 
 
 class BrokerConnection(ABC):
@@ -13,14 +12,7 @@ class BrokerConnection(ABC):
         """
         credentials_file: YAML file of credentials
         """
-        self.credentials = self._load_credentials(credentials_yaml_file)
-
-    def _load_credentials(self, yaml_file: str) -> Dict[str, Any]:
-        """
-        Loads the YAML file and returns it
-        """
-        with open(yaml_file, "r") as file:
-            return yaml.safe_load(file)
+        self.credentials = read_yaml_file(credentials_yaml_file)
 
     @abstractmethod
     def auto_login(self) -> object:
