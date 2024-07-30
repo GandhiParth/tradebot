@@ -23,7 +23,8 @@ def create_connection_string(credentials_yam_file: str) -> str:
     port = config["port"]
     dbname = config["dbname"]
 
-    connection_string = f"postgresql://{user}@{host}:{port}/{dbname}"
+    connection_string = f"postgresql://{user}:{password}@{host}:{port}/{dbname}"
+
     return connection_string
 
 
