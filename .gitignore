@@ -1,4 +1,6 @@
 __pycache__/
 tradebot/brokers/connection/credentials.py
 tradebot/credentials
-tradebot/conf
+tradebot/conf/kite
+
+!.tradebot/conf/schema
