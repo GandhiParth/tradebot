@@ -172,37 +172,38 @@ class DBConnection:
             schema = read_yaml_file(schema_yaml_file)
             conn = self.auto_login()
             with conn.cursor() as cursor:
-                for table_name, table_schema in schema.items():
-                    columns = []
-                    for col_name, col_info in table_schema.get("SCHEMA", {}).items():
-                        if isinstance(col_info, dict):  # This is a column definition
-                            col_type = col_info['type']
-                            nullable = "NOT NULL" if col_info.get('nullable') is False else ""
-                            columns.append(f"{col_name} {col_type} {nullable}".strip())
+                table_name = schema["table_name"]
+                table_schema = schema["SCHEMA"]
+                columns = []
+                for col_name, col_info in table_schema.items():
+                    if col_name not in ["primary_key", "indexes", "timescale"]:
+                        col_type = col_info['type']
+                        nullable = "NOT NULL" if col_info.get('nullable') is False else ""
+                        columns.append(f"{col_name} {col_type} {nullable}".strip())
 
-                    if "primary_key" in table_schema:
-                        primary_key = ", ".join(table_schema["primary_key"])
-                        columns.append(f"PRIMARY KEY ({primary_key})")
+                if "primary_key" in table_schema:
+                    primary_key = ", ".join(table_schema["primary_key"])
+                    columns.append(f"PRIMARY KEY ({primary_key})")
 
-                    create_table_query = f"CREATE TABLE IF NOT EXISTS {table_name} ({', '.join(columns)})"
-                    cursor.execute(create_table_query)
-                    logger.info(f"Table '{table_name}' created successfully.")
+                create_table_query = f"CREATE TABLE IF NOT EXISTS {table_name} ({', '.join(columns)})"
+                cursor.execute(create_table_query)
+                logger.info(f"Table '{table_name}' created successfully.")
 
-                    if "indexes" in table_schema:
-                        for index_name, index_columns in table_schema["indexes"].items():
-                            if isinstance(index_columns, list):
-                                index_columns_str = ", ".join(index_columns)
-                                create_index_query = f"CREATE INDEX IF NOT EXISTS {index_name} ON {table_name} ({index_columns_str})"
-                            else:
-                                create_index_query = f"CREATE INDEX IF NOT EXISTS {index_name} ON {table_name} ({index_columns})"
-                            cursor.execute(create_index_query)
-                            logger.info(f"Index '{index_name}' created for table '{table_name}'.")
+                if "indexes" in table_schema:
+                    for index_name, index_columns in table_schema["indexes"].items():
+                        if isinstance(index_columns, list):
+                            index_columns_str = ", ".join(index_columns)
+                            create_index_query = f"CREATE INDEX IF NOT EXISTS {index_name} ON {table_name} ({index_columns_str})"
+                        else:
+                            create_index_query = f"CREATE INDEX IF NOT EXISTS {index_name} ON {table_name} ({index_columns})"
+                        cursor.execute(create_index_query)
+                        logger.info(f"Index '{index_name}' created for table '{table_name}'.")
 
-                    if "timescale" in table_schema:
-                        for time_column in table_schema["timescale"]:
-                            create_hypertable_query = f"SELECT create_hypertable('{table_name}', '{time_column}', if_not_exists => TRUE)"
-                            cursor.execute(create_hypertable_query)
-                            logger.info(f"Hypertable created for table '{table_name}' on column '{time_column}'.")
+                if "timescale" in table_schema:
+                    for time_column in table_schema["timescale"]:
+                        create_hypertable_query = f"SELECT create_hypertable('{table_name}', '{time_column}', if_not_exists => TRUE)"
+                        cursor.execute(create_hypertable_query)
+                        logger.info(f"Hypertable created for table '{table_name}' on column '{time_column}'.")
 
             conn.commit()
             logger.info("All tables, indexes, and hypertables created successfully from YAML schema.")
