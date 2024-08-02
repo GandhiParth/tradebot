@@ -8,6 +8,7 @@ from psycopg2.extensions import connection
 from tradebot.brokers.connection.exceptions import BrokerConnectionError
 
 from tradebot.utils.utils import read_yaml_file
+from urllib.parse import quote
 
 logger = logging.getLogger(__name__)
 
@@ -24,7 +25,9 @@ def create_connection_string(credentials_yam_file: str) -> str:
     dbname = config["dbname"]
     password = config["password"]
 
-    connection_string = f"postgresql://{user}:{password}@{host}:{port}/{dbname}"
+    encoded_password = quote(password)
+
+    connection_string = f"postgresql://{user}:{encoded_password}@{host}:{port}/{dbname}"
 
     return connection_string
 
@@ -129,7 +132,7 @@ class DBConnection:
                 results = cursor.fetchall()
                 col_names = [desc[0] for desc in cursor.description]
 
-            df = pl.Dataframe(results, schema=col_names)
+            df = pl.DataFrame(results, schema=col_names, orient="row")
             logger.info(
                 f"Query executed successfully. Converted {len(results)} rows to Polars DataFrame."
             )

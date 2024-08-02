@@ -100,13 +100,17 @@ def append_to_csv(file_path, data, logger):
 
 if __name__ == "__main__":
     instrument_list = (
-        pl.read_csv("instrument_list_correct.csv").get_columns()[0].to_list()
+        pl.read_csv(
+            "/home/parthgandhi/Projects/tradebot/test_scripts/instrument_list_correct.csv"
+        )
+        .get_columns()[0]
+        .to_list()
     )
 
-    log_file_path = "nse_log_correct.log"
+    log_file_path = "nse_log.log"
     logger = setup_logger(log_file_path)
-    csv_file_path = "listing_dates_correct.csv"
-    failed_path = "failed_correct.csv"
+    csv_file_path = "listing_dates.csv"
+    failed_path = "failed.csv"
     for symbol in instrument_list:
 
         count = 0

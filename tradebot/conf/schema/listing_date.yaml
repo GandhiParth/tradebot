@@ -21,9 +21,9 @@ SCHEMA:
     - exchange
     - tradingsymbol
 
-  indexes:
-    idx_exchange: exchange
-    idx_composite_exchange_instrument: [exchange, instrument_type]
+  # indexes:
+  # idx_exchange: exchange
+  # idx_composite_exchange_instrument: [exchange, instrument_type]
 
   # timescale:
   # w- listing_date
